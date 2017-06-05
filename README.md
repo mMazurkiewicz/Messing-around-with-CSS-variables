@@ -2,7 +2,7 @@
 
 
 
-## [Check out demo!](https://mmazurkiewicz.github.io/Vanilla-JS-Drum-Kit/)
+## [Check out demo!](https://mmazurkiewicz.github.io/Messing-around-with-CSS-variables/)
 
 
 ![](screenshot.png "Vanilla JS Drum Kit")
