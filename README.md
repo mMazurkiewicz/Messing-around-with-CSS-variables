@@ -1,5 +1,5 @@
-# Vanilla JS Drum Kit
-_inspired by ROLAND TR-808_
+# Update CSS variables with JS
+
 
 
 ## [Check out demo!](https://mmazurkiewicz.github.io/Vanilla-JS-Drum-Kit/)
@@ -8,8 +8,9 @@ _inspired by ROLAND TR-808_
 ![](screenshot.png "Vanilla JS Drum Kit")
 ### Features:
 
-* 9 different drum sounds
-* Clear design
+* Changing picture frame size
+* Changing picture blur
+* Changing picture frame color
 
 ### Made with:
 * HTML
@@ -19,7 +20,7 @@ _inspired by ROLAND TR-808_
 
 _background downloaded from unsplash.com_
 
-_this is a first challange from JavaScript30 | https://javascript30.com/_
+_this is a 3rd challange from JavaScript30 | https://javascript30.com/_
 ___
 
 License
